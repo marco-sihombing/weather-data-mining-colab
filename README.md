@@ -54,7 +54,11 @@ We use **Random Forest Classifier** due to its:
 - Built-in feature importance analysis
 
 Target variable:
-<img src=RandomForestClassifier.png>
+Target variable:
+- `weather` (categorical)
+
+Model illustration:
+<img src="RandomForestClassifier.png" alt="Random Forest Classifier Illustration" width="600">
 
 ---
 
@@ -82,11 +86,11 @@ Model performance is evaluated using:
 ---
 
 ## 📁 Repository Structure
-
+```
 └── 📁weather-data-mining-colab
     ├── index.py
     ├── RandomForestClassifier.png
     ├── README.md
     └── seattle-weather.csv
-
+```
 ---
